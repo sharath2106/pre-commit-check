@@ -1,0 +1,5 @@
+-   id: pre-commit
+    name: pre-commit
+    entry: pre-commit
+    language: system
+    verbose: true
